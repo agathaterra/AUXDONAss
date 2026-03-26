@@ -1,0 +1,25 @@
+🏠 DomusFin Pro - Gestor Financeiro Doméstico 🏠
+
+DomusFin é uma aplicação desktop moderna e intuitiva para donas de casa e gestores domésticos organizarem suas finanças pessoais com clareza visual e simplicidade.
+
+ ✨ Funcionalidades ✨
+
+- Dashboard Visual: Gráfico de barras dinâmico comparando Entradas vs Saídas
+- Saldo em Tempo Real: Atualização automática do saldo total (verde para positivo, vermelho para negativo)
+- Histórico Completo: Treeview nativo com todas as transações
+- Gestão Simples: Adicionar, excluir item selecionado ou limpar tudo
+- Persistência Automática: Salva dados em JSON automaticamente
+- Interface Moderna: Design clean com cores contrastantes (Navy Blue + Off-white)
+
+ 🎨 Design System 🎨
+- Cores: Navy Blue (#1e3a8a), Off-white (#f8fafc), Verde (#10b981), Vermelho (#ef4444)
+- Tipografia: Arial com hierarquia clara
+- Feedback Visual: Confirmações e alertas com messagebox
+
+🚀 Como Executar
+
+1. **Baixe o projeto** e extraia os arquivos
+2. **Abra o terminal** na pasta do projeto
+3. Execute o comando:
+   ```bash
+   python main.py
